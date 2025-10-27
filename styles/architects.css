@@ -273,6 +273,16 @@ footer{
     margin-left:20px;
 
     }
+    footer{
+    width: 60%;
+    justify-items: center;
+
+  }
+  .foot-container{
+  font-size: 1rem;
+  text-align: center;
+  
+ }
 
 
   
